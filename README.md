@@ -48,7 +48,7 @@ Berisi API tentang Data Indonesia.
 | Wikipedia API | Mediawiki | [Link](https://www.mediawiki.org/wiki/API:Tutorial) | `Aktif` | API untuk mendapatkan informasi yang digunakan dari Wikipedia. Untuk medapatkan data menggunakan bahasa Indonesia gunakan domain dengan format 'id' `https://id.wikipedia.org/w/api.php` | `Tidak` |
 | Tahukah Anda API | Icaksh | [Link](https://cinnabar.icaksh.my.id/api/public/daily/wiki) | `Aktif` | API untuk mendapatkan informasi fakta harian (Tahukah Anda) yang berasal dari Wikipedia (dikarenakan API untuk mendapatkan fakta harian tidak tersedia)| `Tidak` |
 | Info Gempa & Cuaca API | R.M. Reza | [Link](https://github.com/renomureza/cuaca-gempa-rest-api) | `Aktif` | REST API informasi gempa terkini dan cuaca kota besar di 35 provinsi dalam 3 harian, sumber data BMKG.  | `Tidak` |
-| Pencarian Nomer HP | Rasi Tech | [Link](http://osinttools.my.id/#tools) | `Aktif` | REST API Pencariam Nomer HP Melalui Internet / Phone Number OSINT  | `Tidak` |
+| Pencarian Nomer HP | Rasi Tech | [Link](http://osinttools.my.id/#tools) | `Tidak Aktif` | REST API Pencariam Nomer HP Melalui Internet / Phone Number OSINT  | `Tidak` |
 
 
 ### Berita
@@ -136,7 +136,7 @@ Berisi API tentang Data Indonesia.
 | Scathach API | sinkaroid | [Link](https://github.com/sinkaroid/scathach-api) | `Aktif` | Genshin impact, Fgo, Azur lane hentai API | Tidak dan `ApiKey` |
 | FILMAPIK API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-filmapik) | `Aktif` | Menampilkan data movie beserta link video google drive | Tidak |
 | Strygwyr Dota 2 API | sinkaroid | [Link](https://github.com/sinkaroid/strygwyr) | `Aktif` | Menampilkan data hero status untuk game Dota 2 | Tidak |
-| LK21 API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-lk21) | `Aktif` | Menampilkan data movie dari situs LK21 | Tidak |
+| LK21 API (Un-official) | devnazir | [Link](https://github.com/devnazir/api-lk21) | `Tidak Aktif` | Menampilkan data movie dari situs LK21 | Tidak |
 | Cabul API | sinkaroid | [Link](https://github.com/sinkaroid/cabul) | `Aktif` | Sebuah API yang menampilkan banyak data Hentai(NSFW) dari hentai_subreddits | Tidak |
 | 1Cak API | dickymuliafiqri | [Link](https://github.com/dickymuliafiqri/onecak) | `Aktif` | API unofficial dari situs meme kesayangan kita | Tidak |
 | Manhwaindo API (Unofficial) | Aerysh | [Link](https://github.com/Aerysh/manhwaindo-api) | `Aktif` | Menyediakan manhwa bahasa indonesia | Tidak |
